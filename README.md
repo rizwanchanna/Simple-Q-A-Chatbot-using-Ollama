@@ -28,7 +28,7 @@ This project is a **Streamlit-based Q&A chatbot** powered by **open-source LLMs 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/qa-chatbot-ollama.git
+git clone https://github.com/rizwanchanna/Simple-Q-A-Chatbot-using-Ollama
 cd qa-chatbot-ollama
 
 ### 2. Install Dependencies
